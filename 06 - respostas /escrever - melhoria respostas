@@ -1,0 +1,47 @@
+De conteúdo, o e-mail contempla praticamente tudo o que conversamos. Apenas três
+ajustes pontuais deixam a abordagem mais precisa e alinhada ao objetivo de ser
+mais curta e informal:
+
+1.  Tamanho e repetição: O rascunho atual tem ~330 palavras e repete o ganho
+    (reduzir rechamadas e NIPs) no item 2 e no final. Para um primeiro contato
+    informal, dá para cortar quase pela metade sem perder força.
+2.  Escopo ("prioridades cirúrgicas"): Você restringiu a cirurgias. Se o
+    problema também atingir exames de alta complexidade, vale deixar mais amplo
+    (ex.: "prioridades cirúrgicas e procedimentos").
+3.  Por que a Análise Técnica encerra: Vale citar em meia frase que não há
+    atuação médica sem prestador habilitado — isso mostra que o encerramento
+    hoje é uma trava técnica/sistêmica, e não falha da equipe. (O detalhe do SLA
+    da Gestão de Rede ficou bem posicionado como próximo passo, caso ela aprove
+    a ideia.)
+
+Sugestão mais curta e informal (~165 palavras)
+
+Assunto: Ideia de melhoria: reclamações com prestadores em análise contratual
+
+Oi, Luci! Tudo bem?
+
+Queria compartilhar uma ideia rápida para um gargalo que tenho visto nas
+reclamações de atraso em autorizações (cirurgias/procedimentos) com prestadores
+em análise contratual.
+
+Hoje: Quando o teleatendimento abre esse chamado por erro para a Análise
+Técnica, não podemos regular sem o prestador habilitado e o sistema não permite
+transferir para a Gestão de Rede. Acabamos encerrando por "erro de abertura", o
+beneficiário fica sem retorno até a rechamada e aumenta o risco de NIPs por
+atraso e falta de clareza (RNs 566/2022 e 623/2024).
+
+A ideia: Em vez de encerrar sem tratativa, redirecionar o mesmo protocolo para a
+Gestão de Rede (via Backoffice no curto prazo e ajuste no sistema depois):
+
+  - Prestador habilitado: volta para a Análise Técnica seguir com a autorização.
+  - Não habilitado: a própria Gestão de Rede já indica a rede credenciada
+    alternativa ao beneficiário.
+
+Assim, entregamos resposta conclusiva no prazo da ANS, reduzimos rechamadas e
+evitamos NIPs.
+
+Se fizer sentido, desenho o fluxo e os SLAs de cada etapa para validarmos
+juntas. O que acha?
+
+Abraço,
+[Seu Nome]
