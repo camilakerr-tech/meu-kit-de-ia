@@ -8,13 +8,13 @@ Copie pelo botão no canto do bloco, troque o que está entre colchetes e cole n
 
 ```text
 CONTEXTO
-Estou escrevendo para [público/situação].
+Estou escrevendo para minha coordenadora Luci. Trabalho como analista em uma empresa de planos de saúde, atuando na área de regulação. Uma das minhas funções é receber e tratar as reclamações oriundas do teleatendimento e mitigar os problemas. 
 
 INSTRUÇÃO
-Ajude a [escrever / revisar / reorganizar / simplificar] o conteúdo abaixo.
+Ajude a revisar e reorganizar o conteúdo abaixo.
 
 OBJETIVO
-Quero que a pessoa entenda [resultado desejado].
+Quero que a pessoa entenda sobre a ideia de melhoria no processo sobre solicitações de prioridades em análises de autorizações cirurgicas.
 
 FORMATO
 Entregue em [e-mail / mensagem / post / texto curto / tópicos], com tom [direto / profissional / informal / didático].
